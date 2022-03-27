@@ -1,3 +1,8 @@
+#user id    = Ankur
+#user pass  = 1234
+#admin id   = Ankur
+#admin pass = 4321
+
 print('\t\t\t****************DEVELOPED BY ANKUR***************\n\n')
 print('\t\t\t****************WELCOME TO APNA SHOP*************\n\n')
 print("WELCOME TO DASHBOARD\n\n")
