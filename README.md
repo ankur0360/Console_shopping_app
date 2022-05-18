@@ -1,5 +1,6 @@
 # Basic_py
 In that Program I used only the basic functionality of python .You don't need to  much knowledge to understand this .
+                       
                        There I used 'def',it is used for to create user defined function 
                        All of the user defined function is void type,beacause any fuunction does not returns no value.
 
