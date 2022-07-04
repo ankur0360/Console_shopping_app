@@ -22,5 +22,8 @@ In that Program I used only the basic functionality of python .You don't need to
 
 
 
-# There are some uses of loop,append,pop,etc. I think we are more familiar with this.
-# Happy Leearning.
+There are some uses of loop,append,pop,etc. I think we are more familiar with this.
+
+
+
+Happy Leearning.
